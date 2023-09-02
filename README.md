@@ -1,6 +1,6 @@
 # GitHub ID Finder
 
-![GitHub ID Finder Icon](./icons/github.ico)
+![GitHub ID Finder Icon](./icons/github_128.ico)
 
 GitHub ID Finder is a simple Python application that uses the GitHub API to display a GitHub User ID based on a provided Personal Access Token (PAT). It provides a user-friendly GUI for entering your GitHub PAT and retrieving your GitHub User ID.
 
