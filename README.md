@@ -18,16 +18,17 @@ To get started with GitHub ID Finder, follow these steps:
 
 3. Install the required libraries by running the following command: pip install requests wxPython
 
+4. Download the zip file (`GitHubIDFinder.zip`) from the [Releases](https://github.com/SeifKhaled13/my_github_gui/releases) section of this repository.
 
-4. Download the pre-built executable (`GitHubIDFinder.exe`) from the [Releases](https://github.com/SeifKhaled13/my_github_gui/releases) section of this repository.
+5. Extract the zip file
 
-5. Double-click `GitHubIDFinder.exe` to run the application.
+6. Double-click `GitHubIDFinder.exe` to run the application.
 
-6. Enter your GitHub PAT in the provided input field.
+7. Enter your GitHub PAT in the provided input field.
 
-7. Click the "Fetch GitHub ID" button to retrieve your GitHub User ID.
+8. Click the "Fetch GitHub ID" button to retrieve your GitHub User ID.
 
-8. The result will be displayed on the screen.
+9. The result will be displayed on the screen.
 
 ## Credits
 
